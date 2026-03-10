@@ -22,7 +22,3 @@ I am passionate about improving my technical knowledge and creating useful digit
 - GitHub  
 - Git Bash  
 - Chrome Developer Tools  
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
